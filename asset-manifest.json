@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17fcb886.css",
+    "main.js": "/static/js/main.64be81b1.js",
+    "static/media/bgd-app-smll.png": "/static/media/bgd-app-smll.e344b2511fa0ac733aef.png",
+    "static/media/bgd-top-small.png": "/static/media/bgd-top-small.e344b2511fa0ac733aef.png",
+    "index.html": "/index.html",
+    "static/media/play.svg": "/static/media/play.ae54fb514ce47539d9e1.svg",
+    "static/media/svg_input-checked.svg": "/static/media/svg_input-checked.a49d5b9f0cc0a86fb32d.svg",
+    "main.17fcb886.css.map": "/static/css/main.17fcb886.css.map",
+    "main.64be81b1.js.map": "/static/js/main.64be81b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fcb886.css",
+    "static/js/main.64be81b1.js"
+  ]
+}
